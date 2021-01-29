@@ -36,8 +36,8 @@
                 padding-left: 1em;
             }
             h4 {
-                font-family:'Open Sans', sans-serif;
-                font-size:.7em;
+                font-family: 'Bowlby One', cursive;
+                font-size:1em;
                 text-align:left;
                 letter-spacing:2px;
                 padding-left: 1em;
