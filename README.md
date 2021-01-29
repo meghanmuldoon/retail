@@ -20,8 +20,8 @@
                 height:auto;
             }
              h2 {
-                font-family:'Bowlby One', cursive;
-                font-size:2em;
+                font-family:'Open Sans', sans-serif;
+                font-size:4em;
                 text-align:center;
                 text-transform:uppercase;
                 letter-spacing:.2em;
